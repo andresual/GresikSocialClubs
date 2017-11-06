@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Gresik Social Club</string>
+    <string name="facebook_app_id">1923283801331908</string>
+    <string name="fb_login_protocol_scheme">fb1923283801331908</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Gresik Food!</string>
+    <string name="slide_1_desc">Cara termudah untuk order kuliner Gresik!</string>
+
+    <string name="slide_2_title">Gresik Due Gawe</string>
+    <string name="slide_2_desc">Notifikasi dan jadwal acara menarik di kota Gresikmu!</string>
+
+    <string name="slide_3_title">Jual Beli Gresik</string>
+    <string name="slide_3_desc">Rasakan kemudahan dan keamanan bertransaksi dalam 1 kota!</string>
+
+    <string name="slide_4_title">Gresik Travel</string>
+    <string name="slide_4_desc">Book tiket transportasi apapun untuk wilayah Gresik!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>

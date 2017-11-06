@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\a8cac3dfbcf0713f33688c761c4e72eee912380b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb3e3427f3bb099d7fcb999323555337c6328102\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\b32347b7c9cb2f5916c1782a659d981c469df3b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f3e91790414b1630cb6c5d3e41c0e03f94e276a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\5a157f1acd1b0b3ba62a38ab89fb887bd747ca3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8204b3dd3a49471a1329ab5f090abf2f78d34b47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\2b587105059727cdf5313d34221f6b8f6520495c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b561c947e38d24cc2f096735d43e7c09a3135c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\9f9ff96c73d4a06956352d77a2793357daec128f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_082ff98168e25d290441309359ed8a9b23d8cc3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3a4af601d6cfb60ff21ad948f0dc3618b152ff93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\c471bf77dc2ccf1d68ead818334bb693b33e7afd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_749a2e428aa0a5cd4659e44ce4702cb517b3e9e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\d2076c63ab2dfff323d4301b6442ed18b9af2b86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9890f72c10fad17e9b5024ced968222f1c41d242\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\5ca58450750ea79a2a050671da86f9e89dc541d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8723ae04eb4826dbc83218a0810d1f787f78807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\5170d1e55c8843d94efb79dbcda06743bfb6a5af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3e51abdb9750bc6ca93e9dda982cbe4997c32c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19de289a4be8b612a63f06c38a2e30ce47eca538">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_01ecf6be97aec28df8554c8bbf949d4dbb3a6d46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\5aabbb8165e39020b92896e6869f65fef3551b7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_461246a33f7dffff33eb5f2d8f513ee0c7766f23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\4e314bb9388546c55b2fce22336a5c8d2e5afe54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\sinauAndroid\GresikSocialClub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f3bdae57b1718d6231c1d1e35033a31a8c8a9e2\classes.dex" />
+    </item>
+
+</items>

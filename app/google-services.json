@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "172041886441",
+    "firebase_url": "https://gresik-social-club.firebaseio.com",
+    "project_id": "gresik-social-club",
+    "storage_bucket": "gresik-social-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172041886441:android:c7bc7452a0539dd4",
+        "android_client_info": {
+          "package_name": "com.andresual.dev.gresiksocialclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172041886441-lt5i99d0a9e8r0enjrqivj9fq40a1q7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andresual.dev.gresiksocialclub",
+            "certificate_hash": "332e25dfc0d1c6fac6f47b3cdcc18a1dd175d540"
+          }
+        },
+        {
+          "client_id": "172041886441-9cqog87ibo4gbth8ev8r8koksi72dutq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQz8c5IPQHgkqQ2p_8U3_PELBQU97gX1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172041886441-9cqog87ibo4gbth8ev8r8koksi72dutq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
