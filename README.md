@@ -1,4 +1,4 @@
-# GresikSocialClub
+# Gresik Social Club
 Andrean Firmansyah Putra
 
 Features :
